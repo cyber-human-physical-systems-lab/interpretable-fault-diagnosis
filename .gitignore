@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# vscode
+.history
+
+# processed input data
+datasets/data_ADAPT/
+datasets/data_SINGLE/
+
+# outputs
+outputs/
